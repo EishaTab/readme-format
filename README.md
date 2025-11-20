@@ -170,7 +170,7 @@ npm start
 ## Contributors
 
 <a href="https://github.com/EishaTab">
-  <img src="https://github.com/EishaTab.png?size=100" width="80" height="80" alt="EishaTab" />
+  <img src="https://avatars.githubusercontent.com/u/71912680?s=400&u=57c93dbd8453d4313c92c529c3ce0a3b7611e593&v=4" width="60" height="60" style="border-radius:50%;" />
   <br />
   <sub><b>EishaTab</b></sub>
 </a>
