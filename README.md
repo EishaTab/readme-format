@@ -165,14 +165,6 @@ Accounts-Portal/
 npm run build
 npm start
 ```
-
-### Docker Deployment (optional)
-
-```bash
-docker build -t accounts-portal .
-docker run -p 3000:3000 accounts-portal
-```
-
 ---
 
 ## Contributing
