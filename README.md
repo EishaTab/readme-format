@@ -29,14 +29,16 @@ The **Prestigeride Accounts Portal** is a modern, secure, and user-friendly web 
 
 ## Features
 
-- User Account Dashboard with personal information and activity overview  
-- Ride history with options to view, edit, duplicate, or create return rides  
-- Payment method management including storing and updating card details  
-- Hybrid UI using **Tailwind CSS**, **MUI**, and **AntD**  
-- Client-side data fetching and caching with **TanStack Query (React Query)**  
-- Responsive design optimized for all screen sizes  
-- Powered by **Next.js App Router** for an efficient, modern UI/UX  
-- Fully JavaScript-based architecture  
+- User Account Dashboard with personal information and activity overview
+- Ride history with options to view, edit, duplicate, rebook, or create return rides
+- Payment method management including storing, updating, and reusing saved cards
+- Passenger management with the ability to save, edit, and reuse passenger profiles
+- Airport ride support with inside pickup, curbside pickup, and flight tracking
+- Hybrid UI using Tailwind CSS, Material UI (MUI), and Ant Design
+- Client-side data fetching, caching, and auto-refetching with TanStack Query (React Query)
+- Responsive design optimized for all screen sizes
+- Powered by Next.js App Router for an efficient, modern UI/UX
+- Fully JavaScript-based architecture
 
 ---
 
@@ -56,16 +58,6 @@ Standard one-way ride from pickup to drop-off with full route and fare calculati
 
 ### 5. Ride Rebook
 Allows customers to instantly rebook a past ride with updated date and time.
-
-### 6. Ride Edit After Creation
-Enables editing of existing reservations, including time, vehicle, passenger info, and payment method.
-
-### 7. Saved Passengers
-Stores passenger profiles so customers can quickly reuse them during future bookings.
-
-### 8. Saved Payment Cards
-Securely saves customer cards, allowing fast checkout and automatic reuse during new or edited rides.
-
 ---
 
 ## Technologies Used
