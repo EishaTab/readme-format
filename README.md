@@ -68,7 +68,7 @@ Allows customers to instantly rebook a past ride with updated date and time.
 | Framework     | Next.js (App Router)                            |
 | Language      | JavaScript                                      |
 | UI & Styling  | Tailwind CSS, Material UI (MUI), Ant Design     |
-| Cache / State | Redis, TanStack Query (React Query)             |
+| Cache / State | TanStack Query (React Query)             |
 | Networking    | Axios                                           |
 
 ---
@@ -135,7 +135,6 @@ Install the following before running the app:
 * Node.js (v18 or later)
 * pnpm (recommended) or npm/yarn
 * Git
-* Redis (local or remote instance)
 
 ---
 
@@ -258,7 +257,6 @@ Primary dependencies include:
 * Material UI
 * Ant Design
 * TanStack Query (React Query)
-* Redis
 * Axios
 
 To list all installed dependencies:
@@ -273,7 +271,6 @@ npm list --depth=0
 
 | Issue                                             | Cause                            | Workaround                                                       |
 | ------------------------------------------------- | -------------------------------- | ---------------------------------------------------------------- |
-| Redis connection failure                          | Redis server offline or bad URL  | Verify Redis is running and `REDIS_URL` is correct               |
 | Styling conflicts between Tailwind, MUI, and AntD | CSS specificity/priority clashes | Use Tailwind for layout; override library styles in a scoped way |
 | Deployment build failures                         | Missing environment variables    | Ensure `.env.local` and deployment env vars are complete         |
 | Slow initial load                                 | Large UI and data libraries      | Use dynamic imports & TanStack caching to reduce re-fetching     |
