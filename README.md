@@ -172,11 +172,11 @@ The application will be available at:
 
 ## Environment Variables
 
-Environment configuration must be stored in:
+Environment configuration for local development must be stored in:
 
 ```txt
-.env.local
-```
+.env.development
+````
 
 A complete example file is included in the repository:
 
@@ -184,17 +184,11 @@ A complete example file is included in the repository:
 .env.example
 ```
 
-Create your local configuration file from the example:
+Create your local development environment file from the example:
 
 ```bash
-cp .env.example .env.local
+cp .env.example .env.development
 ```
-
-> **Note:**
->
-> * Do **not** store real secrets in `.env.example`.
-> * Use `.env.development` / `.env.production` as needed for environment-specific overrides, following your deployment setup.
-
 ---
 
 ## Folder Structure
