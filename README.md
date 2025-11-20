@@ -1,4 +1,4 @@
-````md
+
 # Prestigeride Accounts Portal
 
 The **Prestigeride Accounts Portal** is a modern, secure, and user-friendly web application that allows customers to manage their reservations, ride history, invoices, payments, and personal settings. Built using **Next.js App Router**, the portal leverages a hybrid UI system combining **Tailwind CSS**, **Material UI (MUI)**, **Ant Design (AntD)**, and **TanStack Query** for frontend caching — all written entirely in **JavaScript**.
@@ -91,7 +91,7 @@ After access is granted:
 ```bash
 git clone https://github.com/optlinkhub-IT/Accounts-Portal.git
 cd Accounts-Portal
-````
+
 
 ---
 
