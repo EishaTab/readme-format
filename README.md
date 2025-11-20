@@ -103,18 +103,19 @@ cd Accounts-Portal
 
 The project follows a structured branching model:
 
+## Branch Workflow
+
+The project follows a structured branching model:
+
 | Branch Type | Purpose                        |
 | ----------- | ------------------------------ |
 | `main`      | Production-ready code          |
-| `dev`       | Active development integration |
-| `feature/*` | Feature-specific development   |
-| `bugfix/*`  | Hotfixes and minor issues      |
-| `release/*` | Pre-release staging            |
+| `staging`   |  Active development and QA code | 
 
 ### Creating a Feature Branch
 
 ```bash
-git checkout dev
+git checkout main
 git pull
 git checkout -b feature/<feature-name>
 ```
