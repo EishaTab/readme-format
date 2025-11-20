@@ -120,7 +120,7 @@ git checkout -b feature/<feature-name>
 
 1. Commit changes with clear messages.
 2. Push the branch.
-3. Create a Pull Request (PR) into `dev`.
+3. Create a Pull Request (PR) into `staging`.
 4. Request a review from the engineering team.
 
 ---
