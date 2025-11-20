@@ -33,7 +33,7 @@ The **Prestigeride Accounts Portal** is a modern, secure, and user-friendly web 
 - Ride history with options to view, edit, duplicate, rebook, or create return rides
 - Payment method management including storing, updating, and reusing saved cards
 - Passenger management with the ability to save, edit, and reuse passenger profiles
-- Airport ride support with inside pickup, curbside pickup, and flight tracking
+- Airport ride support with inside pickup and curbside pickup
 - Hybrid UI using Tailwind CSS, Material UI (MUI), and Ant Design
 - Client-side data fetching, caching, and auto-refetching with TanStack Query (React Query)
 - Responsive design optimized for all screen sizes
