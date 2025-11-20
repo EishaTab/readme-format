@@ -30,7 +30,7 @@ The **Prestigeride Accounts Portal** is a modern, secure, and user-friendly web 
 ## Features
 
 - User Account Dashboard with personal information and activity overview
-- Ride history with options to view, edit, duplicate, rebook, or create return rides
+- Ride history with options to view, edit, copy, rebook, or create return rides
 - Payment method management including storing, updating, and reusing saved cards
 - Passenger management with the ability to save, edit, and reuse passenger profiles
 - Airport ride support with inside pickup and curbside pickup
@@ -45,7 +45,7 @@ The **Prestigeride Accounts Portal** is a modern, secure, and user-friendly web 
 ## Ride Types
 
 ### 1. Copy Ride
-Duplicates an existing ride with all original details for quick rebooking.
+Copy an existing ride with all original details for quick rebooking.
 
 ### 2. Return Ride
 Creates a reverse trip by swapping pickup and drop-off locations automatically.
