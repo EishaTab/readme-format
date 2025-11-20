@@ -43,16 +43,28 @@ The **Prestigeride Accounts Portal** is a modern, secure, and user-friendly web 
 ## Ride Types
 
 ### 1. Copy Ride
-Creates a duplicate of an existing ride, preserving all details such as pickup/drop-off, vehicle type, time, and passenger info.
+Duplicates an existing ride with all original details for quick rebooking.
 
 ### 2. Return Ride
-Automatically reverses pickup and drop-off locations for quick round-trip creation.
+Creates a reverse trip by swapping pickup and drop-off locations automatically.
 
 ### 3. Hourly Ride
-Ideal for customers needing flexible hourly chauffeur service with adjustable durations and additional billing.
+Provides a chauffeur-driven vehicle for a set number of hours with flexible routing.
 
 ### 4. Point-to-Point (P2P) Ride
-Standard one-way service featuring route calculation, time estimation, and fare breakdown.
+Standard one-way ride from pickup to drop-off with full route and fare calculation.
+
+### 5. Ride Rebook
+Allows customers to instantly rebook a past ride with updated date and time.
+
+### 6. Ride Edit After Creation
+Enables editing of existing reservations, including time, vehicle, passenger info, and payment method.
+
+### 7. Saved Passengers
+Stores passenger profiles so customers can quickly reuse them during future bookings.
+
+### 8. Saved Payment Cards
+Securely saves customer cards, allowing fast checkout and automatic reuse during new or edited rides.
 
 ---
 
