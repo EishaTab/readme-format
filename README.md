@@ -103,10 +103,6 @@ cd Accounts-Portal
 
 The project follows a structured branching model:
 
-## Branch Workflow
-
-The project follows a structured branching model:
-
 | Branch Type | Purpose                        |
 | ----------- | ------------------------------ |
 | `main`      | Production-ready code          |
